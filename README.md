@@ -45,8 +45,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/S0URCECOD3/S0URCECOD3/output/snake.svg" alt="Snake animation" />
 
 ###
