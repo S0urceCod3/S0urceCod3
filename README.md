@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🛠️  Skills & Tools:</h2>
+<h2 align="left">👨‍💻 Skills & Tools:</h2>
 
 ###
 
