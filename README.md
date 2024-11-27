@@ -58,9 +58,3 @@
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhzajNyeWY4ZmRseG5nZWxldmI2bHFmbzJ1eDZ3YzNzcDQwMHhtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/S0URCECOD3/S0URCECOD3/output/snake.svg" alt="Snake animation" />
-
-###
