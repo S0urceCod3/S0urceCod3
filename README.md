@@ -39,7 +39,7 @@
 
 ###
 
-<h2 align="left">🌐 Connect with Me</h2>
+<h2 align="left">🌐 Contacts </h2>
 
 ###
 
